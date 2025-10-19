@@ -11,9 +11,10 @@ public class DmbCellPhoneExample {
 
         dmbCellPhone.powerOn();
         dmbCellPhone.powerOff();
-        dmbCellPhone.sendVoice("여보세요");
-        dmbCellPhone.receiveVoice("안녕하세요! 저는 홍길동인데요.");
-        dmbCellPhone.sendVoice("아~예 반갑습니다.");
+        dmbCellPhone.sendVoice("여어~");
+        dmbCellPhone.receiveVoice("어딜 한가롭게 '여어~'라고 하는거냐! 몇번이고 말하지 마라... 네놈은..");
+        dmbCellPhone.sendVoice("네녀석의 다음 대사는 '네놈은 날 화나게 했다'다!");
+        dmbCellPhone.receiveVoice("네놈은 날화나게 했다!...무슨?!");
         dmbCellPhone.hangUp();
 
         dmbCellPhone.turnOnDmb();
