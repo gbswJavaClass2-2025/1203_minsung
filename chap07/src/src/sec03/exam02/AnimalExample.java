@@ -1,6 +1,6 @@
 package sec03.exam02;
 
-public class AnimalExample {
+public class  AnimalExample {
     public static void main(String[] args) {
         Dog dog = new Dog();
         Cat cat = new Cat();

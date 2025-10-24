@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ab7594f-9c3c-44da-a73b-ccd2ae14705c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap02/sec03/exam01/PromotionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam02/variableUseExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam03/variableExchangeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam04/VariableScopeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec02/exam01/IntegerLilteralExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec02/exam02/ByteExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec02/exam03/LongExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec02/exam04/CharExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec02/exam05/StringExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam01/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam02/RunStatementExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam03/VariableinitializationExample.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5ab7594f-9c3c-44da-a73b-ccd2ae14705c" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
